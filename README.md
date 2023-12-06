@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Khóa Xuân</h1>
 <h3 align="center">A junior Developer from the Earth🐔</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/emojis/886094443806076978.gif?size=128&quality=lossless">
+<img align="right" alt="Coding" width="400" src="[https://cdn.discordapp.com/emojis/886094443806076978.gif?size=128&quality=lossless](https://media.discordapp.net/attachments/884849474969690266/895474473715769344/890692975234019348.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruleofnight&label=Profile%20views&color=0e75b6&style=flat" alt="ruleofnight" /> </p>
 
