@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/view/your-name-wallpaper-gif-25363162)](https://github.com/RuleOfNight)
+[![MasterHead](https://th.bing.com/th/id/R.cc52769b70434d81b376daa9269a7c7a?rik=IG%2bS2ADHQiwufw&pid=ImgRaw&r=0)](https://github.com/RuleOfNight)
 
 <h1 align="center">Hi 👋, I'm Khóa Xuân</h1>
 <h3 align="center">A junior Developer from the Earth🐔</h3>
