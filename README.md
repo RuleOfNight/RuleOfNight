@@ -2,6 +2,30 @@
 
 <h1 align="center">Hi 👋, I'm Khóa Xuân</h1>
 <h3 align="center">A junior Developer from the Earth🐔</h3>
+
+<head>
+  <title>4 Hình Ảnh Trên Cùng Một Dòng</title>
+  <style>
+    .image-container {
+      display: flex;
+    }
+    .image-container img {
+      width: 100px; 
+      height: auto;
+      margin-right: 10px; 
+    }
+  </style>
+</head>
+
+<body>
+  <div class="image-container">
+    <img src="https://www.icegif.com/wp-content/uploads/icegif-1284.gif" alt="Hình Ảnh 1">
+    <img src="https://img.icons8.com/bubbles/50/facebook-new.png" alt="Hình Ảnh 2">
+    <img src="link_hinh_anh_3.jpg" alt="Hình Ảnh 3">
+    <img src="link_hinh_anh_4.jpg" alt="Hình Ảnh 4">
+  </div>
+</body>
+
 <img align="center" alt="Discord" width="70" src="https://www.icegif.com/wp-content/uploads/icegif-1284.gif">
 <img width="50" height="50" src="https://img.icons8.com/bubbles/50/facebook-new.png" alt="facebook-new"/>
 <img align="center" alt="Fix Bug" width="150" src="">
