@@ -9,8 +9,8 @@
   <div class="image-container">
     <img src="https://www.icegif.com/wp-content/uploads/icegif-1284.gif" alt="Discord" width="90">
     <img src="https://img.icons8.com/bubbles/50/facebook-new.png" alt="Facebook" width="55">
-    <img src="link_hinh_anh_3.jpg" alt="Hình Ảnh 3" width="90">
-    <img src="link_hinh_anh_4.jpg" alt="Hình Ảnh 4" width="90">
+    <img src="https://img.icons8.com/bubbles/50/github.png" alt="Github" width="55">
+    <img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" alt="VSC" width="55">
   </div>
 </body>
 
@@ -39,3 +39,9 @@
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruleofnight&show_icons=true&locale=en" alt="ruleofnight" /></p>
+
+<body>
+    <a  href="https://icons8.com/icon/118555/facebook">Facebook</a> icon by <a href="https://icons8.com">Icons8</a>
+    <a  href="https://icons8.com/icon/XCNhMfBsqfX1/visual-studio-code">visual studio code</a> icon by <a href="https://icons8.com">Icons8</a>
+    <a  href="https://icons8.com/icon/118553/github">GitHub</a> icon by <a href="https://icons8.com">Icons8</a>
+</body>
