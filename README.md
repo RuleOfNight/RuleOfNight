@@ -7,7 +7,7 @@
 
 <body>
   <div class="image-container">
-    <img src="https://www.icegif.com/wp-content/uploads/icegif-1284.gif" alt="Discord" width="90">
+    <img src="https://www.icegif.com/wp-content/uploads/icegif-1284.gif" alt="Discord" width="90" link="https://discord.com/">
     <img src="https://img.icons8.com/bubbles/50/facebook-new.png" alt="Facebook" width="55">
     <img src="https://img.icons8.com/bubbles/50/github.png" alt="Github" width="55">
     <img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" alt="VSC" width="55">
