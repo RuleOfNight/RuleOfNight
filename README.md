@@ -4,23 +4,13 @@
 <h3 align="center">A junior Developer from the Earth🐔</h3>
 
 
-  <style>
-    .image-container {
-      display: flex;
-    }
-    .image-container img {
-      width: 70px; 
-      height: auto;
-      margin-right: 10px; 
-    }
-  </style>
 
 <body>
   <div class="image-container">
-    <img src="https://www.icegif.com/wp-content/uploads/icegif-1284.gif" alt="Hình Ảnh 1">
-    <img src="https://img.icons8.com/bubbles/50/facebook-new.png" alt="Hình Ảnh 2">
-    <img src="link_hinh_anh_3.jpg" alt="Hình Ảnh 3">
-    <img src="link_hinh_anh_4.jpg" alt="Hình Ảnh 4">
+    <img src="https://www.icegif.com/wp-content/uploads/icegif-1284.gif" alt="Discord" width="90">
+    <img src="https://img.icons8.com/bubbles/50/facebook-new.png" alt="Facebook" width="55">
+    <img src="link_hinh_anh_3.jpg" alt="Hình Ảnh 3" width="90">
+    <img src="link_hinh_anh_4.jpg" alt="Hình Ảnh 4" width="90">
   </div>
 </body>
 
