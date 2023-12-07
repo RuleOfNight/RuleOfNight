@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Khóa Xuân</h1>
 <h3 align="center">A junior Developer from the Earth🐔</h3>
-<img align="center" alt="Discord" src="https://media1.tenor.com/m/R7RjzLvtwm4AAAAd/discord-logo-neon-discord.gif" style="max-width: 63px;">
+<img align="center" alt="Discord" width="150" src="https://media1.tenor.com/m/R7RjzLvtwm4AAAAd/discord-logo-neon-discord.gif" style="max-width: 63px;">
 <img align="center" alt="Fix Bug" width="150" src="">
 <img align="center" alt="Fix Bug" width="150" src="">
 <img align="center" alt="Fix Bug" width="150" src="">
