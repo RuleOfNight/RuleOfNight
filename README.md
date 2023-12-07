@@ -11,6 +11,9 @@
     <img src="https://img.icons8.com/bubbles/50/facebook-new.png" alt="Facebook" width="55">
     <img src="https://img.icons8.com/bubbles/50/github.png" alt="Github" width="55">
     <img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" alt="VSC" width="55">
+    <img src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow" alt="SOF" width="55">
+    <img src="https://img.icons8.com/nolan/64/chatgpt.png" alt="chatgpt" alt="ChatGPT" width="55">
+    <img src="https://img.icons8.com/bubbles/50/youtube-play.png" alt="youtube-play" width="55">
   </div>
 </body>
 
@@ -41,7 +44,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruleofnight&show_icons=true&locale=en" alt="ruleofnight" /></p>
 
 <body>
-    <a  href="https://icons8.com/icon/118555/facebook">Facebook</a> icon by <a href="https://icons8.com">Icons8</a>
-    <a  href="https://icons8.com/icon/XCNhMfBsqfX1/visual-studio-code">visual studio code</a> icon by <a href="https://icons8.com">Icons8</a>
-    <a  href="https://icons8.com/icon/118553/github">GitHub</a> icon by <a href="https://icons8.com">Icons8</a>
+<a  href="https://icons8.com/icon/109464/youtube">YouTube</a>, <a  href="https://icons8.com/icon/118555/facebook">Facebook</a>, <a  href="https://icons8.com/icon/XCNhMfBsqfX1/visual-studio-code">visual studio code</a>, <a  href="https://icons8.com/icon/118553/github">GitHub</a>, <a  href="https://icons8.com/icon/kTuxVYRKeKEY/chatgpt">ChatGPT</a>, <a  href="https://icons8.com/icon/13955/stack-overflow">Stack Overflow</a>  icon by <a href="https://icons8.com">Icons8</a>
 </body>
