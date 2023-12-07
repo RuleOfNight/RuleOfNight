@@ -4,13 +4,12 @@
 <h3 align="center">A junior Developer from the Earth🐔</h3>
 
 <head>
-  <title>4 Hình Ảnh Trên Cùng Một Dòng</title>
   <style>
     .image-container {
       display: flex;
     }
     .image-container img {
-      width: 100px; 
+      width: 70px; 
       height: auto;
       margin-right: 10px; 
     }
@@ -26,10 +25,6 @@
   </div>
 </body>
 
-<img align="center" alt="Discord" width="70" src="https://www.icegif.com/wp-content/uploads/icegif-1284.gif">
-<img width="50" height="50" src="https://img.icons8.com/bubbles/50/facebook-new.png" alt="facebook-new"/>
-<img align="center" alt="Fix Bug" width="150" src="">
-<img align="center" alt="Fix Bug" width="150" src="">
 <img align="right" alt="Fix Bug" width="350" src="https://cdn.discordapp.com/emojis/886094443806076978.gif?size=128&quality=lossless">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruleofnight&label=Profile%20views&color=0e75b6&style=flat" alt="ruleofnight" /> </p>
