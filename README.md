@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Khóa Xuân</h1>
 <h3 align="center">A junior Developer from the Earth🐔</h3>
 
-<head>
+
   <style>
     .image-container {
       display: flex;
@@ -14,7 +14,6 @@
       margin-right: 10px; 
     }
   </style>
-</head>
 
 <body>
   <div class="image-container">
