@@ -27,6 +27,8 @@
 
 - 💬 Ask me about **Python, Front-end**
 
+- 😉 You can call me **Asuka** or **K-423**
+
 - 📫 How to reach me **s2sakura5s@gmail.com**
 
 - ⚡ Fun fact **You've kicked the bacteria out of their homes to drink it**
