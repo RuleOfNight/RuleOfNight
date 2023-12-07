@@ -2,7 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Khóa Xuân</h1>
 <h3 align="center">A junior Developer from the Earth🐔</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/emojis/886094443806076978.gif?size=128&quality=lossless">
+<img src="https://media1.tenor.com/m/R7RjzLvtwm4AAAAd/discord-logo-neon-discord.gif" width="833" height="49.75" alt="Discord Logo Neon GIF - Discord Logo Neon Discord GIFs" style="max-width: 63px;">
+<img align="center" alt="Fix Bug" width="150" src="">
+<img align="center" alt="Fix Bug" width="150" src="">
+<img align="center" alt="Fix Bug" width="150" src="">
+<img align="right" alt="Fix Bug" width="350" src="https://cdn.discordapp.com/emojis/886094443806076978.gif?size=128&quality=lossless">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruleofnight&label=Profile%20views&color=0e75b6&style=flat" alt="ruleofnight" /> </p>
 
@@ -15,6 +19,8 @@
 - 📫 How to reach me **s2sakura5s@gmail.com**
 
 - ⚡ Fun fact **You've kicked the bacteria out of their homes to drink it**
+
+- 🙌 If you have any question for me, **Please keep it in your mind🤤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
