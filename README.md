@@ -47,5 +47,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruleofnight&show_icons=true&locale=en" alt="ruleofnight" /></p>
 
 <body>
-<a  href="https://icons8.com/icon/109464/youtube">YouTube</a>, <a  href="https://icons8.com/icon/118555/facebook">Facebook</a>, <a  href="https://icons8.com/icon/XCNhMfBsqfX1/visual-studio-code">visual studio code</a>, <a  href="https://icons8.com/icon/118553/github">GitHub</a>, <a  href="https://icons8.com/icon/kTuxVYRKeKEY/chatgpt">ChatGPT</a>, <a  href="https://icons8.com/icon/13955/stack-overflow">Stack Overflow</a>  icon by <a href="https://icons8.com">Icons8</a>
+<a  href="https://icons8.com/icon/109464/youtube">YouTube</a>, <a  href="https://icons8.com/icon/118555/facebook">Facebook</a>, <a  href="https://icons8.com/icon/XCNhMfBsqfX1/visual-studio-code">Visual Studio Code</a>, <a  href="https://icons8.com/icon/118553/github">GitHub</a>, <a  href="https://icons8.com/icon/kTuxVYRKeKEY/chatgpt">ChatGPT</a>, <a  href="https://icons8.com/icon/13955/stack-overflow">Stack Overflow</a>  icon by <a href="https://icons8.com">Icons8</a>
 </body>
