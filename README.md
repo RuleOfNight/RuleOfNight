@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **University**
 
-- 🌱 I’m currently learning **Data Analyst, C#, AI**
+- 🌱 I’m currently learning **Web, Python, MySQL, OOP, C**
 
 - 😉 You can call me **Asuka** or **K-423**
 
