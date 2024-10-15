@@ -21,7 +21,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruleofnight&label=Profile%20views&color=0e75b6&style=flat" alt="ruleofnight" /> </p>
 
-- 🔭 I’m currently working on **University**
+- 🔭 I’m currently studying on **University**
 
 - 🌱 I’m currently learning **Web, Python, MySQL, OOP, C**
 
