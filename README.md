@@ -21,7 +21,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruleofnight&label=Profile%20views&color=0e75b6&style=flat" alt="ruleofnight" /> </p>
 
-- 🔭 I’m currently studying in **University**
+- 🔭 I’m currently studying at **University**
 
 - 🌱 I’m currently learning **Web, Python, MySQL, OOP, C**
 
@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **s2sakura5s@gmail.com**
 
-- 🙌 If you have any question for me, **Please keep it in your mind🤤**
+- 🙌 The HTML icon below has been mistakenly changed to JS, but I'm too lazy to fix it, so yeah... I'll learn too
 --------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
