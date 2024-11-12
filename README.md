@@ -23,13 +23,13 @@
 
 - 🔭 I’m currently studying at **University**
 
-- 🌱 I’m currently learning **Web, Python, MySQL, OOP, C**
+- 🌱 I’m currently learning **Web, MySQL, OOP, C, AI**
 
 - 😉 You can call me **Asuka** or **K-423**
 
 - 📫 How to reach me **s2sakura5s@gmail.com**
 
-- 🙌 The HTML icon below has been mistakenly changed to JS, but I'm too lazy to fix it, so yeah... I'll learn too
+- 🙌 The HTML icon below has been mistakenly changed to JS, but I'm too lazy to fix it, so yeah... 
 --------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
