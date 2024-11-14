@@ -1,7 +1,7 @@
 [![MasterHead](https://art.pixilart.com/04e0cf7ee2853c2.gif)](https://github.com/RuleOfNight)
 
 <h1 align="center">Hi 👋, I'm Khóa Xuân</h1>
-<h3 align="center">A junior Developer from the Earth🐔</h3>
+<h3 align="center">A chicken Developer from the Earth🐔</h3>
 
 
 
