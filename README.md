@@ -21,9 +21,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruleofnight&label=Profile%20views&color=0e75b6&style=flat" alt="ruleofnight" /> </p>
 
-- 🔭 I’m currently studying at **University**
+- 🔭 I'm Noob**
 
-- 🌱 I’m currently learning **Web, MySQL, OOP, C, AI**
+- 🌱 I’m currently learning **AI**
 
 - 😉 You can call me **Asuka** or **K-423**
 
