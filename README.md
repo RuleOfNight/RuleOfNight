@@ -25,11 +25,11 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 😉 You can call me **Asuka** or **K-423**
+- 😉 You can call me **Asuka**
 
 - 📫 How to reach me **s2sakura5s@gmail.com**
 
-- 🙌 The HTML icon below has been mistakenly changed to JS, but I'm too lazy to fix it, so yeah... 
+- 🙌 The HTML icon below has been mistakenly changed to JS, but I'm too lazy to fix it
 --------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
