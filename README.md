@@ -1,7 +1,7 @@
 ![MasterHead](https://art.pixilart.com/04e0cf7ee2853c2.gif)
 
 <h1 align="center">Hi 👋, I'm Khóa Xuân</h1>
-<h3 align="center">A chicken developer from the Earth 🐣</h3>
+<h3 align="center">🌏A chicken developer from the Earth 🐣</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ruleofnight&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
