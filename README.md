@@ -122,7 +122,7 @@ print(me)
     </td>
     <td>
       <img src="https://img.shields.io/badge/PHP-8.0+-777BB4?style=for-the-badge&logo=php" alt="PHP">
-      <img src="https://img.shields.io/badge/Laravel-10.0+-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel">
+      <img src="https://img.shields.io/badge/Laravel-9.0+-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel">
       <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript">
     </td>
     <td>
