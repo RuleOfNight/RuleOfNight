@@ -13,6 +13,9 @@
 ---
 
 ### 🔥 **About Me**
+<p align="center">
+  <img align="right" alt="Coding" width="350" src="https://cdn.discordapp.com/emojis/886094443806076978.gif">
+</p>
 
 ```python
 class Developer:
@@ -27,14 +30,11 @@ class Developer:
         self.pronoun = "Code doesn't work ? Add print()"
     
     def __str__(self):
-        return f"Debugging {self.name} v3.14..."
+        return f"Debugging {self.name} v20..."
 
 me = Developer()
 print(me)
 ```
-<p align="center">
-  <img align="right" alt="Coding" width="350" src="https://cdn.discordapp.com/emojis/886094443806076978.gif">
-</p>
 ---
 
 ### 🛠️ **Tech Stack**
