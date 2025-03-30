@@ -10,10 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img align="right" alt="Coding" width="280" src="https://cdn.discordapp.com/emojis/886094443806076978.gif">
-</p>
-
 ---
 
 ### 🔥 **About Me**
@@ -36,6 +32,9 @@ class Developer:
 me = Developer()
 print(me)
 ```
+<p align="center">
+  <img align="right" alt="Coding" width="350" src="https://cdn.discordapp.com/emojis/886094443806076978.gif">
+</p>
 ---
 
 ### 🛠️ **Tech Stack**
