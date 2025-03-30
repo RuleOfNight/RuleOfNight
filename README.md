@@ -14,7 +14,7 @@
 
 ### 🔥 **About Me**
 <p align="center">
-  <img align="right" alt="Coding" width="350" src="https://cdn.discordapp.com/emojis/886094443806076978.gif">
+  <img align="right" alt="Coding" width="280" src="https://cdn.discordapp.com/emojis/886094443806076978.gif">
 </p>
 
 ```python
