@@ -153,3 +153,7 @@ print(me)
     <img src="https://img.shields.io/badge/View_All_Projects-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
+
+
+---
+<p>And thanks <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for github stats</p>
