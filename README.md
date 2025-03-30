@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img align="right" alt="Coding" width="350" src="https://cdn.discordapp.com/emojis/886094443806076978.gif">
+  <img align="right" alt="Coding" width="300" src="https://cdn.discordapp.com/emojis/886094443806076978.gif">
 </p>
 
 ---
@@ -28,6 +28,7 @@ class Developer:
         self.philosophy = "I don't believe in God, I believe in backpropagation"
         self.hobbies = ["Coding", "Gaming", "Breaking production"]
         self.love = "Still singer yet"
+        self.pronoun = "Code doesn't work ? Add print()"
     
     def __str__(self):
         return f"Debugging {self.name} v3.14..."
@@ -85,3 +86,71 @@ print(me)
 </p>
 
 ---
+### 🚀 **Featured Projects**
+
+<table>
+  <tr>
+    <th width="33%">Project</th>
+    <th width="33%">Tech Stack</th>
+    <th width="34%">Description</th>
+  </tr>
+  
+  <!-- Project 1 -->
+  <tr>
+    <td>
+      <h3 align="center">
+        <a href="https://github.com/RuleOfNight/Face_Recognition">AI Face Recognition</a>
+      </h3>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3.8+-yellow?style=for-the-badge&logo=python" alt="Python">
+      <img src="https://img.shields.io/badge/PyTorch-1.9+-red?style=for-the-badge&logo=pytorch" alt="PyTorch">
+      <img src="https://img.shields.io/badge/OpenCV-4.5+-blue?style=for-the-badge&logo=opencv" alt="OpenCV">
+    </td>
+    <td>
+      <p>Real-time face detection with emotion analysis using deep learning</p>
+      <img src="https://img.shields.io/github/stars/RuleOfNight/Face_Recognition?style=social&logo=github" align="right">
+    </td>
+  </tr>
+  
+  <!-- Project 2 -->
+  <tr>
+    <td>
+      <h3 align="center">
+        <a href="https://github.com/RuleOfNight/Linked">Profile Website</a>
+      </h3>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-8.0+-777BB4?style=for-the-badge&logo=php" alt="PHP">
+      <img src="https://img.shields.io/badge/Laravel-10.0+-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel">
+      <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript">
+    </td>
+    <td>
+      <p>Simple website</p>
+      <img src="https://img.shields.io/github/stars/RuleOfNight/Linked?style=social&logo=github" align="right">
+    </td>
+  </tr>
+  
+  <!-- Project 3 -->
+  <tr>
+    <td>
+      <h3 align="center">
+        <a href="https://github.com/RuleOfNight/AirlineManager">AirlineManager</a>
+      </h3>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-17+-007396?style=for-the-badge&logo=java" alt="Java">
+      <img src="https://img.shields.io/badge/OOP-Approach-009933?style=for-the-badge" alt="OOP">
+    </td>
+    <td>
+      <p>OOP project</p>
+      <img src="https://img.shields.io/github/stars/RuleOfNight/AirlineManager?style=social&logo=github" align="right">
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/RuleOfNight?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
