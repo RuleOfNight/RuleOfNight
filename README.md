@@ -1,86 +1,87 @@
 ![MasterHead](https://art.pixilart.com/04e0cf7ee2853c2.gif)
 
 <h1 align="center">Hi 👋, I'm Khóa Xuân</h1>
-<h3 align="center">🌏A chicken developer from the Earth 🐣</h3>
+<h3 align="center">🌏 A chicken developer from the Earth 🐣</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruleofnight&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img align="right" alt="Fix Bug" width="350" src="https://cdn.discordapp.com/emojis/886094443806076978.gif?size=128&quality=lossless">
-</p>
-
----
-
-### 🔥 About Me
-- 🌱 I’m currently learning **AI & Deep Learning**
-- 💪 I don't believe in God, I believe in myself
-- 😉 You can call me **Asuka**
-- 📫 How to reach me: **s2sakura5s@gmail.com**
-- 🐔 The HTML icon is actually JS, but let's pretend it's correct because i'm lazy
-
----
-
-### 🌐 Connect with me:
-<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ruleofnight&label=Profile%20views&color=0e75b6&style=flat" alt="ruleofnight" />
   <a href="https://discord.gg/3NKdUJG7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruleofnight&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruleofnight&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img align="right" alt="Coding" width="350" src="https://cdn.discordapp.com/emojis/886094443806076978.gif">
+</p>
+
+---
+
+### 🔥 **About Me**
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Khóa Xuân - Asuka"
+        self.role = "AI/ML Engineer"
+        self.languages = ["Python", "C#", "Java"]
+        self.current_learning = ["AI", "Machine Learning"]
+        self.philosophy = "I don't believe in God, I believe in backpropagation"
+        self.hobbies = ["Coding", "Gaming", "Breaking production"]
+        self.love = "Still singer yet"
+    
+    def __str__(self):
+        return f"Debugging {self.name} v3.14..."
+
+me = Developer()
+print(me)
+```
+---
+
+### 🛠️ **Tech Stack**
+
+#### **Programming Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### **AI/ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+#### **Tools & Platforms**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+#### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruleofnight&show_icons=true&theme=radical" alt="stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruleofnight&layout=compact&theme=radical" alt="languages" height="165">
 </p>
 
 <p align="center">
-  <img align="right" alt="Games" width="250" src="https://cdn.discordapp.com/attachments/630553822036623370/1321134042883821660/b_zzz241224.gif?ex=67c7c1b5&is=67c67035&hm=e20bc9e28294d337cd9257e71c9ee87095bce7e1b56cc3d82eb128e2fb0bed66&">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruleofnight&theme=radical" alt="streak" height="165">
 </p>
 
 ---
-### 🎮 Fun Zone
 
-- I play **Honkai:Star Rail**, **Honkai Impact 3rd** and **Zenless Zone Zero**
-- 👉 "One day, I will shine among the stars. 🚀"
+### 🎮 **Gaming Corner**
+<p align="center">
+  <img src="https://img.shields.io/badge/Honkai_Star_Rail-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Honkai_Impact_3rd-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Zenless_Zone_Zero-000000?style=for-the-badge">
+</p>
+
+<p align="center">
+  <i>"One day, I will shine among the star"</i> ✨
+</p>
 
 ---
-
-### 🎨 Credits
-Icons by <a href="https://icons8.com">Icons8</a>
