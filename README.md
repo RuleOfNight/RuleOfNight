@@ -63,8 +63,8 @@ print(me)
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruleofnight&show_icons=true&theme=radical" alt="stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruleofnight&layout=compact&theme=radical" alt="languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruleofnight&show_icons=true&theme=merko" alt="stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruleofnight&layout=compact&theme=aura" alt="languages" height="165">
 </p>
 
 <p align="center">
@@ -156,4 +156,4 @@ print(me)
 
 
 ---
-<p>And thanks <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for github stats</p>
+<p>And thanks <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for github stats cards</p>
