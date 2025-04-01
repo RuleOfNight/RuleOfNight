@@ -26,7 +26,7 @@ class Developer:
         self.current_learning = ["AI", "Machine Learning"]
         self.philosophy = "I don't believe in God, I believe in backpropagation"
         self.hobbies = ["Coding", "Gaming", "Breaking production"]
-        self.love = "Still singer yet"
+        self.love = "Still single yet"
         self.pronoun = "Code doesn't work ? Add print()"
     
     def __str__(self):
@@ -116,7 +116,7 @@ print(me)
   <tr>
     <td>
       <h3 align="center">
-        <a href="https://github.com/RuleOfNight/Linked">Profile Website</a>
+        <a href="https://github.com/RuleOfNight/Linked">Linked</a>
       </h3>
     </td>
     <td>
@@ -125,7 +125,7 @@ print(me)
       <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript">
     </td>
     <td>
-      <p>Simple website</p>
+      <p>Personal portfolio website built with Laravel & PHP</p>
       <img src="https://img.shields.io/github/stars/RuleOfNight/Linked?style=social&logo=github" align="right">
     </td>
   </tr>
@@ -142,7 +142,7 @@ print(me)
       <img src="https://img.shields.io/badge/OOP-Approach-009933?style=for-the-badge" alt="OOP">
     </td>
     <td>
-      <p>OOP project</p>
+      <p>Airline management system demonstrating OOP principles in Java</p>
       <img src="https://img.shields.io/github/stars/RuleOfNight/AirlineManager?style=social&logo=github" align="right">
     </td>
   </tr>
