@@ -36,6 +36,9 @@ me = Developer()
 print(me)
 ```
 ---
+<p>
+  <iframe src="https://discord.com/widget?id=918505395612450956&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">đưa</iframe>
+</p>
 
 ### 🛠️ **Tech Stack**
 
