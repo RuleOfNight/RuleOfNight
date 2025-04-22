@@ -135,16 +135,15 @@ print(me)
   <tr>
     <td>
       <h3 align="center">
-        <a href="https://github.com/RuleOfNight/AirlineManager">AirlineManager</a>
+        <a href="https://github.com/RuleOfNight/Udon">Udon</a>
       </h3>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Java-17+-007396?style=for-the-badge&logo=java" alt="Java">
-      <img src="https://img.shields.io/badge/OOP-Approach-009933?style=for-the-badge" alt="OOP">
+      <img src="https://img.shields.io/badge/Python-3.8+-yellow?style=for-the-badge&logo=python" alt="Python">
     </td>
     <td>
-      <p>Airline management system demonstrating OOP principles in Java</p>
-      <img src="https://img.shields.io/github/stars/RuleOfNight/AirlineManager?style=social&logo=github" align="right">
+      <p>Discord chat bot(very friendly)</p>
+      <img src="https://img.shields.io/github/stars/RuleOfNight/Udon?style=social&logo=github" align="right">
     </td>
   </tr>
 </table>
