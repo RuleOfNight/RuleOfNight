@@ -117,17 +117,16 @@ print(me)
   <tr>
     <td>
       <h3 align="center">
-        <a href="https://github.com/RuleOfNight/Linked">Linked</a>
+        <a href="https://github.com/RuleOfNight/Calories-Scan">Calories-Scan</a>
       </h3>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/PHP-8.0+-777BB4?style=for-the-badge&logo=php" alt="PHP">
-      <img src="https://img.shields.io/badge/Laravel-9.0+-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel">
-      <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript">
+      <img src="https://img.shields.io/badge/TypeScript-4.0+-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Python-3.8+-yellow?style=for-the-badge&logo=python" alt="Python">
     </td>
     <td>
-      <p>Personal portfolio website built with Laravel & PHP</p>
-      <img src="https://img.shields.io/github/stars/RuleOfNight/Linked?style=social&logo=github" align="right">
+      <p>A web application designed to help users monitor and manage their daily nutritional</p>
+      <img src="https://img.shields.io/github/stars/RuleOfNight/Calories-Scan?style=social&logo=github" align="right">
     </td>
   </tr>
   
