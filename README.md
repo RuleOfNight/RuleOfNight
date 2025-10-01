@@ -26,7 +26,6 @@ class Developer:
         self.current_learning = ["AI", "Machine Learning"]
         self.philosophy = "I don't believe in God, I believe in backpropagation"
         self.hobbies = ["Coding", "Gaming", "Breaking production"]
-        self.love = "Still single yet"
         self.pronoun = "Code doesn't work ? Add print()"
     
     def __str__(self):
